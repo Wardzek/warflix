@@ -1,0 +1,23 @@
+.navbar {
+    background-color: transparent !important;
+    z-index: 9999;
+}
+  
+.navbar .nav-link img {
+    height: 40px;
+    border-radius: 50%;
+}
+  
+.navbar .dropdown-toggle::after {
+    display: none;
+}
+  
+.navbar .dropdown-menu {
+    right: 0;
+    left: auto;
+    background-color: black;
+}
+
+a, .nav-link {
+    color: white !important;
+}

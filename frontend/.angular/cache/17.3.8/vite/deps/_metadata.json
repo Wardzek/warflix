@@ -1,0 +1,67 @@
+{
+  "hash": "7ce4e25c",
+  "configHash": "9d41c034",
+  "lockfileHash": "0d74f3d2",
+  "browserHash": "235536a9",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "fb48a54b",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "3534e3c9",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "4a0800b4",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "a091655e",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "dc7df9a7",
+      "needsInterop": false
+    },
+    "@ng-bootstrap/ng-bootstrap": {
+      "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
+      "file": "@ng-bootstrap_ng-bootstrap.js",
+      "fileHash": "fe819da6",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "5a25dcbc",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-532NOLKJ": {
+      "file": "chunk-532NOLKJ.js"
+    },
+    "chunk-4TCRE6BT": {
+      "file": "chunk-4TCRE6BT.js"
+    },
+    "chunk-MPENXPTL": {
+      "file": "chunk-MPENXPTL.js"
+    },
+    "chunk-WGVVNGCZ": {
+      "file": "chunk-WGVVNGCZ.js"
+    },
+    "chunk-CPQRBDRP": {
+      "file": "chunk-CPQRBDRP.js"
+    }
+  }
+}
